@@ -24,8 +24,8 @@ Ensure you have Python installed on your system. If you don't have Python, downl
 ## Usage
 1. Clone this repository:
    ```sh
-   git clone https://github.com/your-username/ai-number-guessing-game.git
-   cd ai-number-guessing-game
+   git clone https://github.com/SameehaFirdaus/AI-Number-Guessing-Game
+   cd AI-Number_Guessing_Game
    ```
 2. Run the script:
    ```sh
