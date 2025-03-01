@@ -29,7 +29,7 @@ Ensure you have Python installed on your system. If you don't have Python, downl
    ```
 2. Run the script:
    ```sh
-   python ai_guess.py
+   python AI NUMBER GUSSING.py
    ```
 3. Follow the on-screen instructions to play the game.
 
@@ -53,5 +53,5 @@ This project is licensed under the MIT License.
 Feel free to submit pull requests or report issues to improve the project.
 
 ## Author
-[Your Name](https://github.com/your-username)
+[Sameeha Firdaus](https://github.com/SameehaFirdaus)
 
