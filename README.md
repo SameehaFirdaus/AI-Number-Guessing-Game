@@ -1,7 +1,7 @@
 # AI Number Guessing Game
 
 ## Description
-This is a simple AI-powered number guessing game implemented in Python. The AI attempts to guess a number you are thinking of between 1 & 100 using a binary search approach. You provide feedback on whether the AI's guess is correct, too high, or too low, and it will adjust its guess accordingly.
+This is a simple AI-powered number guessing game implemented in Python. The AI attempts to guess the number you are thinking of between 1 & 100 using a binary search approach. You provide feedback on whether the AI's guess is correct, too high, or too low, and it will adjust its guess accordingly.
 
 ## How It Works
 1. You think of a number between 1 and 100.
